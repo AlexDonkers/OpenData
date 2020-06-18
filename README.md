@@ -7,3 +7,8 @@ Please refer to this web page, as well as to the initial document created by Geo
 # Dataset
 
 This dataset consists of a manual transformation from the RDF Turtle version of the Open Smart Home to a Cypher version, applicable in Neo4j.
+
+# Conference paper
+
+We used this dataset in:
+Donkers, A.J.A., Yang, D., & Baken, N. (2020). Linked Data for Smart Homes: Comparing RDF and Labeled Property Graphs. In Proceedings of the 8th Linked Data in Architecture and Construction Workshop, Dublin, June 17-19, 2020.
