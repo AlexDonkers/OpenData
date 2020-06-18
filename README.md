@@ -11,4 +11,5 @@ This dataset consists of a manual transformation from the RDF Turtle version of 
 # Conference paper
 
 We used this dataset in:
-Donkers, A.J.A., Yang, D., & Baken, N. (2020). Linked Data for Smart Homes: Comparing RDF and Labeled Property Graphs. In Proceedings of the 8th Linked Data in Architecture and Construction Workshop, Dublin, June 17-19, 2020.
+
+Donkers, A.J.A., Yang, D., & Baken, N. (2020). Linked Data for Smart Homes: Comparing RDF and Labeled Property Graphs. In <i>Proceedings of the 8th Linked Data in Architecture and Construction Workshop</i>, Dublin, June 17-19, 2020.
